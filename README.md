@@ -12,23 +12,23 @@ This project allows the user to play a game of Othello (Reversi). This version s
 <h2>Program Walk-Through:</h2>
 
 <p align="center">
-Launch the game: <br/>
+Launch the game <br/>
 <img src="https://i.imgur.com/Y5viaCA.png" height="50%" width="50%" alt="Introduction and instructions"/>
 <br />
 <br />
-Player turn:  <br/>
+Player turn  <br/>
 <img src="https://i.imgur.com/inzbmu8.png" height="50%" width="50%" alt="Enter desired move"/>
 <br />
 <br />
-See list of available moves:  <br/>
+See list of available moves  <br/>
 <img src="https://i.imgur.com/PJUJNwg.png" height="50%" width="50%" alt="See valid moves"/>
 <br />
 <br />
-Input validation:  <br/>
+Input validation  <br/>
 <img src="https://i.imgur.com/dPatnLY.png" height="50%" width="50%" alt="Only valid moves accepted"/>
 <br />
 <br />
-AI turn:  <br/>
+AI turn  <br/>
 <img src="https://i.imgur.com/F7KBxzt.png" height="50%" width="50%" alt="AI turn"/>
 <br />
 <br />
