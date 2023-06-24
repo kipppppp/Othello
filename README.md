@@ -5,11 +5,11 @@ This project allows the user to play a game of Othello (Reversi). This version s
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
 - <b>Python</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Program Walk-Through:</h2>
 
 <p align="center">
 Launch the game: <br/>
