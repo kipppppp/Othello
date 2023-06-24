@@ -32,4 +32,8 @@ AI turn  <br/>
 <img src="https://i.imgur.com/F7KBxzt.png" height="50%" width="50%" alt="AI turn"/>
 <br />
 <br />
+Game ends when neither player has a valid move  <br/>
+<img src="https://i.imgur.com/AEKobGj.png" height="50%" width="50%" alt="Game over"/>
+<br />
+<br />
 </p>
