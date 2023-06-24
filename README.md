@@ -21,7 +21,7 @@ Player turn:  <br/>
 <br />
 <br />
 See list of available moves:  <br/>
-<img src="https://i.imgur.com/inzbmu8.png" height="50%" width="50%" alt="See valid moves"/>
+<img src="https://i.imgur.com/PJUJNwg.png" height="50%" width="50%" alt="See valid moves"/>
 <br />
 <br />
 Input validation:  <br/>
